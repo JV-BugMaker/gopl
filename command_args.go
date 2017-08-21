@@ -20,6 +20,8 @@ func main() {
 		seq2 = " "
 	}
 
+
+
 	fmt.Println(s,s2)
 }
 
